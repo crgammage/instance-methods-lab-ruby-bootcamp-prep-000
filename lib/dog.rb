@@ -5,6 +5,8 @@ def bark
 def sit
   puts "The dog is sitting"
 end
+
 fido = Dog.new
+
 fido.bark
 fido.sit
