@@ -3,7 +3,7 @@ def bark
   puts "Woof!"
   end
 def sit
-  puts
+  puts "The dog is sitting"
 end
 fido = Dog.new
 fido.bark
